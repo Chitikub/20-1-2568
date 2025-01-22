@@ -1,7 +1,11 @@
 
 import { OrderStatus } from './OrderStatus';
 import { Lineitem } from './LineItem';
+<<<<<<< HEAD
 export class Order{
+=======
+export class Oder{
+>>>>>>> ce45b4a1412775e0a9218636f25e1fcbf65fe19c
     private number: string;
     private ordered: string;
     private shipped: string;
